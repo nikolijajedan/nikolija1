@@ -1,0 +1,106 @@
+
+body {
+	
+	overflow:hidden;
+}
+
+
+}
+#gif {
+	height:150vh;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+#naslov {
+	position:absolute;
+    top:125px;
+    right:0px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov2 {
+	position:absolute;
+    top:135px;
+    right:3px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov3 {
+	position:absolute;
+    top:800px;
+    right:1120px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov4{
+	position:absolute;
+    top:80px;
+    right:120px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov5{
+	position:absolute;
+    top:550px;
+    right:520px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov6{
+	position:absolute;
+    top:840px;
+    right:650px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov7{
+	position:absolute;
+    top:1260px;
+    right:360px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov8{
+	position:absolute;
+    top:333px;
+    right:333px;
+    width:200px;
+    color:#ff7300;
+}
+
+#o_meni_zvezde{
+	position: absolute;
+	top: 350px;
+	right:942px;
+}
+
+
+}
+
+
+
+p {
+	color:#f26a1b;
+	font-size:40px;
+
+
+}
+
+a {
+	color:#ff7300;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#f59218;
+}
+

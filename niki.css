@@ -1,0 +1,62 @@
+
+
+body {
+	
+	overflow:hidden;
+}
+
+
+}
+#gif {
+	height:150vh;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+#naslov {
+	position:absolute;
+    top:125px;
+    right:0px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov2 {
+	position:absolute;
+    top:135px;
+    right:3px;
+    width:200px;
+    color:#ff7300;
+}
+
+#naslov3 {
+	position:absolute;
+    top:800px;
+    right:1120px;
+    width:200px;
+    color:#ff7300;
+}
+
+#meni {
+	position:absolute;
+	top:35px;
+	left:70px;
+}
+
+p {
+	color:#f0b432;
+	font-size:24px;
+
+
+}
+
+a {
+	color:#f0b432;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#f59218;
+}
+
